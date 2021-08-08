@@ -1,13 +1,13 @@
-# RLholic <img align="left" width="20%" height="20%" src="./assets/Deep dive to RL.png" style="margin:0px 20px">
+# RLholic <img align="left" width="18%" height="18%" src="./assets/Deep dive to RL.png" style="margin:0px 20px">
 
 > Deep dive to RL
 
-**Author** : Jungyeon Lee ([curieuxjy](https://github.com/curieuxjy))
+**Collector/Author** : Jungyeon Lee ([curieuxjy](https://github.com/curieuxjy))
 
-
+---
 ### How to use this repository
 
-First, check the `README.md` file in each folder. And then, download the repository using `git clone` or `.zip` file and study if you want. 
+First, check the `README.md` file in each folder. Click the `Folder name` you'd like to look into on the contents table bellow. And then, download the repository using `git clone` or `.zip` file and study if you want. 
 
 ## Contents
 |Folder name|Brief introduction & tag|book|lecture|project|
