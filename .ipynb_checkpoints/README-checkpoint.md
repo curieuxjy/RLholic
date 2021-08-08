@@ -12,8 +12,8 @@ First, check the `README.md` file in each folder. Click the `Folder name` you'd 
 ## Contents
 |Folder name|Brief introduction & tag|book|lecture|project|
 |-----------|------------------|----|-------|-------|
-|[AI_Crash_Course](./AI_Crash_Course/README.md)||✔️|| |
-|[Game_of_Go](./Game_of_Go/README.md)||✔️|| |
-|[RL_in_action](./RL_in_action/README.md)||✔️|| |
-|[RL_udemy](./RL_udemy/README.md)|||✔️| |
-|[Springer_DRL_2020](./Springer_DRL_202/README.md)||✔️|| |
+|[AI_Crash_Course](https://github.com/curieuxjy/RLholic/blob/main/AI_Crash_Course/README.md)||✔️|| |
+|[Game_of_Go](https://github.com/curieuxjy/RLholic/blob/main/Game_of_Go/README.md)||✔️|| |
+|[RL_in_action](https://github.com/curieuxjy/RLholic/blob/main/RL_in_action/README.md)||✔️|| |
+|[RL_udemy](https://github.com/curieuxjy/RLholic/blob/main/RL_udemy/README.md)|||✔️| |
+|[Springer_DRL_2020](https://github.com/curieuxjy/RLholic/blob/main/Springer_DRL_2020/README.md)||✔️|| |
