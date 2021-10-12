@@ -17,3 +17,4 @@ First, check the `README.md` file in each folder. Click the `Folder name` you'd 
 |[RL_in_action](https://github.com/curieuxjy/RLholic/blob/main/RL_in_action/README.md)||✔️|| |
 |[RL_udemy](https://github.com/curieuxjy/RLholic/blob/main/RL_udemy/README.md)|||✔️| |
 |[Springer_DRL_2020](https://github.com/curieuxjy/RLholic/blob/main/Springer_DRL_2020/README.md)||✔️|| |
+|[RLkit](https://github.com/rail-berkeley/rlkit)|||||
