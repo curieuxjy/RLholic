@@ -19,3 +19,4 @@ First, check the `README.md` file in each folder. Click the `Folder name` you'd 
 |[Springer_DRL_2020](https://github.com/curieuxjy/RLholic/blob/main/Springer_DRL_2020/README.md)||✔️|| |
 |[RLkit](https://github.com/rail-berkeley/rlkit)|||||
 |[Rlax](https://github.com/deepmind/rlax)|||||
+|[해법코드로 설명한 심층강화학습](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)|||||
